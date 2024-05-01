@@ -1,0 +1,2 @@
+// Middleware
+app.use(bodyParser.json());
